@@ -16,12 +16,12 @@ function multiply(a, b) {
 console.log("Starting the script...");
 
 // Add numbers
-const sum = add(5, 10);
-console.log("Sum:", sum);
+const sum2 = add(5, 10);
+console.log("Sum:", sum2);
 
 // Multiply numbers
-const product = multiply(4, 7);
-console.log("Product:", product);
+const product2 = multiply(4, 7);
+console.log("Product:", product2);
 
 // Loop to test stepping through code
 for (let i = 0; i < 5; i++) {
