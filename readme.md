@@ -1,6 +1,6 @@
-Set up
+# Set up
 
-# Typescript
+## Typescript
 
 ```
 npm ci
@@ -10,4 +10,4 @@ python -m http.server
 
 Run `name = "Launch: Chrome (client)"` in side nvim
 
-# Rust
+## Rust
