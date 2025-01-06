@@ -6,7 +6,7 @@
 
 ```bash
 npm ci
-tsc
+npx tsc
 ```
 
 ### Launch
