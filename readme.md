@@ -18,7 +18,7 @@ Run `Launch: File` inside nvim either `inspect.js` or `dist/inspect.js`.
 Run this in other terminal.
 
 ```bash
-node --inpsect inspect.js      # Javascript
+node --inspect inspect.js      # Javascript
 node --inspect dist/inspect.js # Typescript
 ```
 
